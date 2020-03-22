@@ -11,7 +11,7 @@ class Program
             for (int j = 0; j < 2; j++)
             {
                 Console.Write(g1[i]);
-                Console.Write(g2[j]);
+                Console.WriteLine(g2[j]);
             }
         }
     }
